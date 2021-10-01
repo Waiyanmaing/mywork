@@ -6,7 +6,7 @@
           "date" : "2019",
           "overview" : "Pyi Gyi Khin is national aids program",
           "link" : "https://app.pgkmm.org/index.php/login",
-          "link_desc" : "app.pgkmm.org",
+          "link_desc" : "app.pgkmm.org"
       },
       {   "id" : 2 ,
           "title": "Forecasting Program",
@@ -14,7 +14,7 @@
           "date" : "2020",
           "overview" : "Forecasting Program",
           "link" : "https://fnq.napmmr.org/forecastinglogin",
-          "link_desc" : "fnq.napmmr.org",
+          "link_desc" : "fnq.napmmr.org"
       }
     ]
 }
