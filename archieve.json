@@ -15,6 +15,14 @@
           "overview" : "Forecasting Program",
           "link" : "https://fnq.napmmr.org/forecastinglogin",
           "link_desc" : "fnq.napmmr.org"
+      },
+       {   "id" : 3 ,
+          "title": "NAP Prevention Platform",
+          "picture" : "https://i.ibb.co/826Ntbc/Screen-Shot-2021-10-01-at-7-55-30-PM.png",
+          "date" : "2020",
+          "overview" : "Forecasting Program",
+          "link" : "https://demo.aggademo.me/nap_prevention/Frontend/build/login",
+          "link_desc" : "demo.aggademo.me/nap_prevention"
       }
     ]
 }
