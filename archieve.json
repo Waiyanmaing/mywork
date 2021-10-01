@@ -1,0 +1,20 @@
+{
+    "myworks": [
+      {   "id" : 1 ,
+          "title": "PGK(Pyi Gyi Khin)",
+          "picture" : "https://drive.google.com/drive/u/5/folders/1KuRDLfsDlR2Q4_NzMNoFkDUgTync1_4_",
+          "date" : "2019",
+          "overview" : "Pyi Gyi Khin is national aids program",
+          "link" : "https://app.pgkmm.org/index.php/login",
+          "link_desc" : "app.pgkmm.org",
+      },
+      {   "id" : 2 ,
+          "title": "Forecasting Program",
+          "picture" : "https://drive.google.com/drive/u/5/folders/1BQS54HcdcNwJB0SCoZmVXZlCoTVSKNeT",
+          "date" : "2020",
+          "overview" : "Forecasting Program",
+          "link" : "https://fnq.napmmr.org/forecastinglogin",
+          "link_desc" : "fnq.napmmr.org",
+      }
+    ]
+}
