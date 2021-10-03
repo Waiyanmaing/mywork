@@ -6,7 +6,8 @@
           "date" : "2019",
           "overview" : "Pyi Gyi Khin is a health software related to AIDS.An organization affiliated with WHO and UNOPS, which currently integrates and uses data on HIV patients from all over Myanmar into the software.Also developed mobile apllication for data entry process",
           "link" : "https://app.pgkmm.org/index.php/login", 
-          "link_desc" : "app.pgkmm.org"
+          "link_desc" : "app.pgkmm.org",
+          "role" : "Main Developer"
       },
       {   "id" : 2 ,
           "title": "Forecasting Program",
@@ -14,7 +15,8 @@
           "date" : "2020",
           "overview" : "Forecasting Program is a software that is used to calculate the distribution of medical supplies in the country",
           "link" : "https://fnq.napmmr.org/forecastinglogin",
-          "link_desc" : "fnq.napmmr.org"
+          "link_desc" : "fnq.napmmr.org",
+          "role" : "Main Developer"
       },
        {   "id" : 3 ,
           "title": "NAP Prevention Platform",
@@ -23,6 +25,14 @@
           "overview" : "The NAP Prevention Platform is a web application developed to provide online consultaion service to HIV patients during a covid outbreak.A mobile application has been developed and patients can order medicines through this application and have an online consultation with a doctor.",
           "link" : "https://demo.aggademo.me/nap_prevention/Frontend/build/login",
           "link_desc" : "demo.aggademo.me/nap_prevention"
+      },
+       {   "id" : 4 ,
+          "title": "My Money Application",
+          "picture" : "https://i.ibb.co/47RpWcd/Pics-Art-10-03-06-52-50.jpg",
+          "date" : "2020",
+          "overview" : "The application is self-developed and aims to manage finances.It is an unpublished version and is still being improved",
+          "link" : "https://drive.google.com/file/d/1Nj1Sb1jGmjMc6BJF2JRImSnqnZB7ODti/view?usp=sharing",
+          "link_desc" : "My Money Application"
       }
     ]
 }
