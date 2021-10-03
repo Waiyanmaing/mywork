@@ -6,8 +6,7 @@
           "date" : "2019",
           "overview" : "Pyi Gyi Khin is a health software related to AIDS.An organization affiliated with WHO and UNOPS, which currently integrates and uses data on HIV patients from all over Myanmar into the software.Also developed mobile apllication for data entry process",
           "link" : "https://app.pgkmm.org/index.php/login", 
-          "link_desc" : "app.pgkmm.org",
-          "role" : "Main Developer"
+          "link_desc" : "app.pgkmm.org"
       },
       {   "id" : 2 ,
           "title": "Forecasting Program",
@@ -31,7 +30,7 @@
           "date" : "2020",
           "overview" : "NAP M&E is a health software related to AIDS.Which currently integrates and uses data on HIV patients from all over Myanmar into the software.",
           "link" : "https://demo.aggademo.me/nap/Frontend/build/login", 
-          "link_desc" : "https://demo.aggademo.me/nap/Frontend/",
+          "link_desc" : "https://demo.aggademo.me/nap/Frontend/"
       },
        {   "id" : 5 ,
           "title": "My Money Application",
