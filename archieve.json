@@ -33,6 +33,14 @@
           "overview" : "The application is self-developed and aims to manage finances.It is an unpublished version and is still being improved",
           "link" : "https://drive.google.com/file/d/1Nj1Sb1jGmjMc6BJF2JRImSnqnZB7ODti/view?usp=sharing",
           "link_desc" : "My Money Application"
+      },
+        { "id" : 5 ,
+          "title": "CAPP Application",
+          "picture" : "https://i.ibb.co/2qLtMGr/Pics-Art-10-03-07-17-33.jpg",
+          "date" : "2020",
+          "overview" : "The application is self-developed for entertainment.You can download mod applications and view other books and entertainment live online.Some api are still under development.",
+          "link" : "https://drive.google.com/file/d/1NixNUKYj8KxRJe6keiBwsZKuDtD4GAPF/view?usp=sharing",
+          "link_desc" : "CAPP Application"
       }
     ]
 }
