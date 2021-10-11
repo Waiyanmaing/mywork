@@ -47,6 +47,14 @@
           "overview" : "The application is self-developed for entertainment.You can download mod applications and view other books and entertainment live online.Some API are still under development.",
           "link" : "https://drive.google.com/file/d/1NixNUKYj8KxRJe6keiBwsZKuDtD4GAPF/view?usp=sharing",
           "link_desc" : "CAPP Application"
+      },
+        { "id" : 7 ,
+          "title": "APPLE Wear Myanmar",
+          "picture" : "https://i.ibb.co/3rj11Ls/Screen-Shot-2021-10-11-at-9-29-05-AM.png",
+          "date" : "2018",
+          "overview" : "An application that distributes men's and women's underwear nationwide",
+          "link" : "https://applewearmyanmar.com/login",
+          "link_desc" : "applewearmyanmar.com"
       }
     ]
 }
