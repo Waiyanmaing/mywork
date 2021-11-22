@@ -55,6 +55,14 @@
           "overview" : "An application that distributes men's and women's underwear nationwide",
           "link" : "https://applewearmyanmar.com/login",
           "link_desc" : "applewearmyanmar.com"
+      },
+        { "id" : 8 ,
+          "title": "TeleHealth Myanmar",
+          "picture" : "https://i.postimg.cc/QCvbQ1cv/Screen-Shot-2021-11-22-at-11-51-42-AM.png",
+          "date" : "2021",
+          "overview" : "Online health care platform ",
+          "link" : "https://demo.aggademo.me/telehealthmyanmar/Frontend/build/login",
+          "link_desc" : "telehealthmyanmar.com"
       }
     ]
 }
